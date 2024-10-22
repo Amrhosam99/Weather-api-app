@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+.s{
+    height: 100vh;
+}
+.weather{
+    height: 100%;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 14%, rgba(127,103,92,1) 62%, rgba(0,212,255,1) 90%);
+}
